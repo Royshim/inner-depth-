@@ -37,10 +37,7 @@ Each page is a portal, each line a mirror, each element carefully chosen to invo
 - 📱 Fully responsive layout and custom scrollbar
 - 🧭 Navigation bar on all pages
 - ✨ Footer mantra: *“Crafted in silence. Coded in reflection. Shared with soul.”*
-
----
-
-## 🗂️ File Structure
+  
 
 
 
